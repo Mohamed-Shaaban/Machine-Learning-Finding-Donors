@@ -2,6 +2,15 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Works done in this project:
+- Analyze data and understand how it was recorded
+- Manipulate the data using logarithmic transformation(features_raw ,MinMaxScaler)
+- Data Preprocessing by shuffling and split data
+- Creating a Training and Predicting Pipeline for the model
+- Evaluate the model using accuracy, precision, recall, and  Naive Predictor Performace.
+
+
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -52,6 +61,5 @@ The modified census dataset consists of approximately 32,000 data points, with e
 - `hours-per-week`: Average Hours Per Week Worked
 - `native-country`: Native Country (United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands)
 
-**Target Variable**
-- `income`: Income Class (<=50K, >50K)
-# Machine-Learning-Finding-Donors
+
+
